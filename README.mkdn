@@ -1,4 +1,4 @@
-# Lunatic Clang
+![Banner](https://github.com/LunaticSpace/LunaticClang/raw/README/Banner.jpg)
 is a custom LLVM Clang compiler that used for our kerenl development needs.  
 Our compiler also come with binutils included to make easier to use.
 
