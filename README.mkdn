@@ -1,0 +1,11 @@
+# Lunatic Clang
+is a custom LLVM Clang compiler that used for our kerenl development needs.  
+Our compiler also come with binutils included to make easier to use.
+
+## Compatibility
+Lunatic Clang requires ```glibc 2.27``` which supported on Ubuntu 18.04 and newer.
+
+## Version
+Each major version of Lunatic Clang represent of which Clang version it based on
+- ```1.X``` is Clang 12 Based.
+- ```2.X``` is Clang 13 Based.
